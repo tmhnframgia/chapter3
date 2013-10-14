@@ -203,6 +203,8 @@ input {
 }
 .content {
   display: block;
+  padding-left: 60px;
+  word-wrap: break-word;
 }
 .timestamp {
   color: $grayLight;
